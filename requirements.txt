@@ -1,0 +1,3 @@
+google-genai
+google-adk
+dotenv
